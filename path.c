@@ -125,7 +125,7 @@ int main(void)
 
     int A[] = {0, 0, 0, 0, 1, 0, 0, 0, 0};
     
-    int path_length = find_path(3, 3, A, 0, 0, 0, 0, path);
+    int path_length = find_path(3, 3, A, 0, 0, 2, 2, path);
 
     //print the path
     for (int c = 0; c < path_length; c++)     // c < path_length
