@@ -1,8 +1,5 @@
-/*Author : Youssef Dahab
-macID : dahaby
-student number : 400114524
-File name: path.c
-Assignment 2, Problem 3 (10 points & Bonus 5 points)*/
+/* Author : Youssef Dahab
+File name: path.c */
 
 #include <stdio.h>
 
